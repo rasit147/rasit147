@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQG7Q07HdU4huQ/article-cover_image-shrink_720_1280/0/1717423662076?e=2147483647&v=beta&t=y40g9v7t_BwW1UcZxMkFiYmbssd3QqQ2ml-FByYL9fI)](https://rasit147.io)
+
 
 <h1 align="center"> I'm Rashid</h1>
-<h3 align="center">Skilled in data analysis and machine learning tools, proficient in Python, programming and relevant libraries.with hands-on experience solving 150+ programming problems. Ready to contribute to real-world projects and deliver tangible results.</h3>
+<h3 align="center">Skilled in Java python and oops programming and also I am from data science branch so I am familiar with data science tech stack and its relevant libraries.with hands-on experience solving 150+ programming problems.Made some projects by using python ,machine learning ,deep learning and developed webinterface using streamlit python library Ready to contribute to real-world projects and deliver tangible results.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-flat-cartoon-data-scientist-analyzing-big-data-digital-transformation-data-scientist-wor_980716-174028.jpg">
 
 
