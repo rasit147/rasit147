@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning and Real time analysis**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/rasitdata](https://www.datascienceportfol.io/rasitdata)
+- 👨‍💻 My Portfolio [https://mdrashid.streamlit.app/](https://mdrashid.streamlit.app/)
 
 - 📫 How to reach me **mdrashid1549@gmail.com**
 
