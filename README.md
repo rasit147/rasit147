@@ -1,9 +1,11 @@
 
-<p align="center">
-  <img src="assets/header.png"/>
+<p align="center">![header](https://github.com/user-attachments/assets/729f27f7-483f-4531-94d6-f6785c211cad)
+
+  
 </p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Md+Rashid;Software+Engineer" width="auto" height="35"/>
+   <img src![coding](https://github.com/user-attachments/assets/f377bcdb-31ba-44aa-888c-bc9fb33205e7)
+="Md+Rashid;Software+Engineer" width="auto" height="35"/>
 </p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
