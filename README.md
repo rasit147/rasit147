@@ -1,8 +1,11 @@
 
-![header](https://github.com/user-attachments/assets/dcaefbc1-f776-4ac3-ad66-b6eb6d05aab3)
+   ![header](https://github.com/user-attachments/assets/dcaefbc1-f776-4ac3-ad66-b6eb6d05aab3)
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Md+Rashid;Software+Engineer" width="auto" height="35"/>
 </p>
+
+![coding](https://github.com/user-attachments/assets/bd09348a-2491-4ea8-9cad-f5d91a369286)
+
 
 <!--
 **rasit147/rasit147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
