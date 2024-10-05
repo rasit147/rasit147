@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 <h1 align="center"> I'm Rashid</h1>
 <h3 align="center">Skilled in Java python and oops programming and also I am from data science branch so I am familiar with data science tech stack and its relevant libraries.with hands-on experience solving 150+ programming problems.Made some projects by using python ,machine learning ,deep learning and developed webinterface using streamlit python library Ready to contribute to real-world projects and deliver tangible results.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-flat-cartoon-data-scientist-analyzing-big-data-digital-transformation-data-scientist-wor_980716-174028.jpg">
+<!--<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-flat-cartoon-data-scientist-analyzing-big-data-digital-transformation-data-scientist-wor_980716-174028.jpg">-->
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasit147&label=Profile%20views&color=0e75b6&style=flat" alt="rasit147" /> </p>-->
-<p align ="left">![coding](https://github.com/user-attachments/assets/bd09348a-2491-4ea8-9cad-f5d91a369286)
+![coding](https://github.com/user-attachments/assets/bd09348a-2491-4ea8-9cad-f5d91a369286)
 
 <!--<p align="left"> <a href="https://twitter.com/rashid147" target="blank"><img src="https://img.shields.io/twitter/follow/rashid147?logo=twitter&style=for-the-badge" alt="rashid147" /></a> </p>-->
 
