@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!--<p align="left"> <a href="https://twitter.com/rashid147" target="blank"><img src="https://img.shields.io/twitter/follow/rashid147?logo=twitter&style=for-the-badge" alt="rashid147" /></a> </p>-->
 
-- 🌱 I’m currently learning **Machine Learning and Real time analysis**
+<!--- 🌱 I’m currently learning **Machine Learning and Real time analysis**-->
 
 - 👨‍💻 My Portfolio [https://mdrashid.streamlit.app/](https://mdrashid.streamlit.app/)
 
