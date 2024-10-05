@@ -1,5 +1,8 @@
 
 ![header](https://github.com/user-attachments/assets/dcaefbc1-f776-4ac3-ad66-b6eb6d05aab3)
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Md+Rashid;Software+Engineer" width="auto" height="35"/>
+</p>
 
 <!--
 **rasit147/rasit147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
