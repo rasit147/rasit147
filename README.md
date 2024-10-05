@@ -4,8 +4,7 @@
   
 </p>
 <p align="center">
-   <img src![coding](https://github.com/user-attachments/assets/f377bcdb-31ba-44aa-888c-bc9fb33205e7)
-="Md+Rashid;Software+Engineer" width="auto" height="35"/>
+   <img src="Md+Rashid;Software+Engineer" width="auto" height="35"/>
 </p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
