@@ -1,19 +1,5 @@
 
-<p align="center">![header](https://github.com/user-attachments/assets/729f27f7-483f-4531-94d6-f6785c211cad)
-
-  
-</p>
-<p align="center">
-   <img src="Md+Rashid;Software+Engineer" width="auto" height="35"/>
-</p>
-<p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
-</p>
-<h3 align="center">My interests</h3>
-<p align="center">
-   <img src="https://github.com/rasit147/rasit147/blob/master/coding.gif=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
-</p>
-<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
+![header](https://github.com/user-attachments/assets/dcaefbc1-f776-4ac3-ad66-b6eb6d05aab3)
 
 <!--
 **rasit147/rasit147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
