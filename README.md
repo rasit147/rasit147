@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasit147&label=Profile%20views&color=0e75b6&style=flat" alt="rasit147" /> </p>-->
-<p align -"left">![coding](https://github.com/user-attachments/assets/bd09348a-2491-4ea8-9cad-f5d91a369286)
+<p align ="left">![coding](https://github.com/user-attachments/assets/bd09348a-2491-4ea8-9cad-f5d91a369286)
 
-<p align="left"> <a href="https://twitter.com/rashid147" target="blank"><img src="https://img.shields.io/twitter/follow/rashid147?logo=twitter&style=for-the-badge" alt="rashid147" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/rashid147" target="blank"><img src="https://img.shields.io/twitter/follow/rashid147?logo=twitter&style=for-the-badge" alt="rashid147" /></a> </p>-->
 
 - 🌱 I’m currently learning **Machine Learning and Real time analysis**
 
