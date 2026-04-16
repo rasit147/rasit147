@@ -19,8 +19,9 @@ Focused on backend and cloud development.
 
 ### 🚀 About Me
 - 💼 Software Engineer at **Wipro**
-- ⚙️ Working on **ETRM (event-driven backend + Azure)**
+- ⚙️ Working on **ETRM (event-driven backend + Azure)**, also using **Python (Pandas)** where needed
 - 🔧 Tech: **C#, .NET, APIs, Azure Functions, Service Bus**
+- 🎓 B.Tech in Computer Science (Data Science)
 - 🧠 Comfortable with **Java, Python, OOPs, DSA**
 
 ---
