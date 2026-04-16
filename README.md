@@ -4,26 +4,11 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Md+Rashid;Software+Engineer" />
 </p>
 
-<h3 align="center">Interests</h3>
-
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=Backend+Development;Azure+Cloud;Machine+Learning" />
-</p>
-
-<p align="center">
-Learning and working on backend systems and cloud (Azure).
-</p>
-
----
-
 <h1 align="center">Hi 👋, I'm Md Rashid</h1>
 
 <h3 align="center">
-Currently working as a Software Engineer.  
-Working on an ETRM project involving event-driven backend services using .NET and Azure.  
-
-Improving my skills in backend development, cloud (Azure), and system design.  
-Comfortable with Java, Python, OOPs, and DSA.
+Software Engineer at Wipro, working on an ETRM project with event-driven backend services using C# (.NET) and Azure.  
+Focused on backend and cloud development.
 </h3>
 
 ---
@@ -34,10 +19,9 @@ Comfortable with Java, Python, OOPs, and DSA.
 
 ### 🚀 About Me
 - 💼 Software Engineer at **Wipro**
-- ⚙️ Working on **ETRM project (event-driven backend + Azure)**
-- 🔧 Tech: **.NET, APIs, Azure Functions, Service Bus**
-- 📊 Background in **Data Science & ML**
-- 🧠 Practicing **DSA**
+- ⚙️ Working on **ETRM (event-driven backend + Azure)**
+- 🔧 Tech: **C#, .NET, APIs, Azure Functions, Service Bus**
+- 🧠 Comfortable with **Java, Python, OOPs, DSA**
 
 ---
 
@@ -71,8 +55,6 @@ Comfortable with Java, Python, OOPs, and DSA.
 <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a>
 </p>
 
 ---
